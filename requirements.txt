@@ -1,0 +1,6 @@
+pymongo
+boto3
+pandas
+dask.dataframe
+duckdb
+pyarrow
