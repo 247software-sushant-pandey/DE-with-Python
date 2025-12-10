@@ -7,7 +7,7 @@ import random
 import string
 
 # MongoDB connection
-mongoUri= "mongodb+srv://myAtlasDBUser:Sushant.1729@myatlasclusteredu.e4bfj5j.mongodb.net/"
+mongoUri= "URI"
 client = MongoClient(mongoUri)
 data=input("Enter database name: ")
 db = client[data]
